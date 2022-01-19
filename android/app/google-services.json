@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173841771565",
+    "project_id": "quizz-b485d",
+    "storage_bucket": "quizz-b485d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173841771565:android:d3a95a3d7bdb07b05b9ca4",
+        "android_client_info": {
+          "package_name": "com.example.firequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173841771565-5o8av51i9svmsvmp3ki8osfv50maf8uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_IiYjmDtXXGAqxTyt0qtJb-_lOOI_Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173841771565-5o8av51i9svmsvmp3ki8osfv50maf8uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
